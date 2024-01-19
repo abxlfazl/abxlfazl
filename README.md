@@ -12,8 +12,8 @@
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/Typescript-white?style=flat&logo=typescript&logoColor=white&color=005cc5)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-white?style=flat&logo=javascript&logoColor=white&color=005cc5)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=white&color=005cc5)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=white&color=005cc5)&nbsp;
 ![Nextjs](https://img.shields.io/badge/NextJs-white?style=flat&logo=nextdotjs&logoColor=white&color=005cc5)&nbsp;
 ![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&color=005cc5)&nbsp;
 ![React Query](https://img.shields.io/badge/React%20Query-white?style=flat&logo=react%20query&logoColor=white&color=005cc5)&nbsp;
@@ -30,6 +30,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=abxlfazl&label=👀+++&style=flat&color=005cc5)
+![](https://komarev.com/ghpvc/?username=abxlfazl&label=👀+++&style=flat&color=005cc5&abbreviated=true)
 
 </div>
